@@ -1,0 +1,8 @@
+Package: BBN-Node-MainNet
+Version: 1.0
+Date: 2024-08-01
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: IDS
+Description: BBN-Node-MainNet
