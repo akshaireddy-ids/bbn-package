@@ -1,6 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=BBN MainNet
-Exec=/usr/bin/MainNetSetup.sh
-Terminal=false
-Icon=/usr/share/icons/bbn.png
